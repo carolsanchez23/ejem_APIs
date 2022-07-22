@@ -1,0 +1,52 @@
+{
+    "apiName" : " mi pokedex" ,
+    "origin" : " Queretaro " ,
+    "created" : 2022 ,
+    "figures" :[
+        {
+            "id" : 1 ,
+            "name" : " Pikachu " ,
+            "tipe" : " Electrico " ,
+            "heigth" : 0.4,
+            "weight" : 10 ,
+            "des" : " Es amarillo y su poder es la electricidad " ,
+            "figure" : "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/025.png"
+        },
+        {
+            "id" : 2 ,
+            "name" : " Growlithe " ,
+            "tipe" : " Fuego " ,
+            "heigth" : 0.7 ,
+            "weight" : 19 ,
+            "des" : " Es de color marron y su poder es de fuego " ,
+            "figure" : "  "    
+        },
+        {
+            "id" : 3 ,
+            "name" : " Shellos " ,
+            "tipe" : " Agua " ,
+            "heigth" : 0.3 ,
+            "weight" : 6.3 ,
+            "des" : " Pueden ser de color rosa o azul y su poder es de agua  " ,
+            "figure" : "  "        
+        },
+        {
+            "id" : 4 ,
+            "name" : " Pachirisu " ,
+            "tipe" : " Electrico " ,
+            "heigth" : 0.4 ,
+            "weight" : 3.9 ,
+            "des" : " ES de color blanco con un toque de azul pastel y su poder es electrico " ,
+            "figure" : "  "  
+        },
+        {
+            "id" : 5 ,
+            "name" : " Squirtle " ,
+            "tipe" : " Agua " ,
+            "heigth" : 0.5 ,
+            "weight" : 9.0 ,
+            "des" : " Es de color azul y su poder es de agua " ,
+            "figure" : "  "      
+        }
+    ]
+}
